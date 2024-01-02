@@ -2,10 +2,8 @@
 HTML version of the Irish Language Translation of the Little Prince
 
 ![Front Cover](0300771h-images/cover.png)
-![alt text](https://github.com/cavedave/AnPrionsaBeag/blob/main/cover.png?raw=true)
 
-  
-  
+    
 AN PRIONSA BEAG
 Arna aistriú go Gaeilge ag Breandán Ó Doibhlin
 
